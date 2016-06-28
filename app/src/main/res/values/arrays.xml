@@ -1,0 +1,7 @@
+<resources>
+	<string-array name="mode">
+		<item>Most popular</item>
+		<item>Highest rated</item>
+		<item>Favorites</item>
+	</string-array>
+</resources>

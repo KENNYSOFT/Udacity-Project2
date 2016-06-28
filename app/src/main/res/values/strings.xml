@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Popular Movies</string>
+	<string name="movie_detail">Movie Detail</string>
+	<string name="movie_vote_format">%1$,.1f/10</string>
+	<string name="favorite">Favorite</string>
+	<string name="trailer">Trailers:</string>
+	<string name="review">Reviews:</string>
+</resources>
